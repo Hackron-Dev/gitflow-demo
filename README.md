@@ -11,4 +11,14 @@ A demonstration project for implementing GitFlow branching strategy.
 - [Changelog](CHANGELOG.md)
 
 ## Version
-1.0.0
+1.0.1
+
+# Project Documentation
+
+- [Home Wiki](https://github.com/Hackron-Dev/gitflow-demo/wiki)
+
+## Logo
+
+<p align="center">
+  <img src="assets/logo.png" alt="Project Logo" width="200">
+</p>
