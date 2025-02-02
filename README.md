@@ -22,3 +22,9 @@ A demonstration project for implementing GitFlow branching strategy.
 <p align="center">
   <img src="assets/logo.png" alt="Project Logo" width="200">
 </p>
+
+## Network
+
+<p align="center">
+  <img src="assets/network.png" alt="Network" width="400">
+</p>
