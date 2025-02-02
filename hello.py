@@ -1,13 +1,16 @@
 from datetime import datetime
 
 def get_time_greeting():
-    hour = datetime.now().hour
-    if 5 <= hour < 12:
-        return "Good morning"
-    elif 12 <= hour < 17:
-        return "Good afternoon"
-    else:
-        return "Good evening"
+    try:
+        hour = datetime.now().hour
+        if 5 <= hour < 12:
+            return "Good morning"
+        elif 12 <= hour < 17:
+            return "Good afternoon"
+        else:
+            return "Good evening"
+    except:
+        return "Hello"
 
 def greet(name=None):
     time_greeting = get_time_greeting()
